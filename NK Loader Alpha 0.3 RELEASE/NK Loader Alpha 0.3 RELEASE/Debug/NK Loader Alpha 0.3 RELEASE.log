@@ -1,0 +1,6 @@
+﻿  NK Loader Alpha 0.3 RELEASE.cpp
+NK Loader Alpha 0.3 RELEASE.obj : error LNK2019: unresolved external symbol __imp__curl_easy_init referenced in function _main
+NK Loader Alpha 0.3 RELEASE.obj : error LNK2019: unresolved external symbol __imp__curl_easy_setopt referenced in function _main
+NK Loader Alpha 0.3 RELEASE.obj : error LNK2019: unresolved external symbol __imp__curl_easy_perform referenced in function _main
+NK Loader Alpha 0.3 RELEASE.obj : error LNK2019: unresolved external symbol __imp__curl_easy_cleanup referenced in function _main
+C:\Users\notkr\source\repos\NK Loader Alpha 0.3 RELEASE\Debug\NK Loader Alpha 0.3 RELEASE.exe : fatal error LNK1120: 4 unresolved externals
